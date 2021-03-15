@@ -1,0 +1,47 @@
+commit 1c9531d13332e42a850420beb34956636aefef0e (HEAD -> master)
+Author: TBrusilovsky <55800776+TBrusilovsky@users.noreply.github.com>
+Date:   Wed Mar 3 23:07:23 2021 -0500
+
+    hopefully last fiddling
+
+commit de418e0000acab6e2929bc5dfb95f1fcc85e24ac
+Author: TBrusilovsky <55800776+TBrusilovsky@users.noreply.github.com>
+Date:   Wed Mar 3 23:06:18 2021 -0500
+
+    more fiddling
+
+commit 2e8afb6b9d21c2038fe00b7553b92372b517e44a
+Author: TBrusilovsky <55800776+TBrusilovsky@users.noreply.github.com>
+Date:   Wed Mar 3 23:04:34 2021 -0500
+
+    another attempt at large file
+
+commit bd2f0cbf7ba46ee06d627ed5b941f5d75cec26e2
+Author: TBrusilovsky <55800776+TBrusilovsky@users.noreply.github.com>
+Date:   Wed Mar 3 23:02:26 2021 -0500
+
+    attempting to fix things by removing file
+
+commit e5cbce3d44dc15d2e48be6f46a7f7d6e9292c2b3
+Author: TBrusilovsky <55800776+TBrusilovsky@users.noreply.github.com>
+Date:   Wed Mar 3 22:51:26 2021 -0500
+
+    did the large file stuff
+
+commit 130535464a15bcdeeff3dc5021bc2736714d3091
+Author: TBrusilovsky <55800776+TBrusilovsky@users.noreply.github.com>
+Date:   Wed Mar 3 22:42:47 2021 -0500
+
+    updated assets
+
+commit a4d6e3154ca5dc548a5815aaf840e23106d6cdb3
+Author: TBrusilovsky <55800776+TBrusilovsky@users.noreply.github.com>
+Date:   Wed Mar 3 22:40:13 2021 -0500
+
+    wrote up introduction and exported files for workshopping
+
+commit 7535d06a2bea2edc7dd994d33a1f2cbe930eebe2
+Author: TBrusilovsky <55800776+TBrusilovsky@users.noreply.github.com>
+Date:   Wed Mar 3 21:58:46 2021 -0500
+
+    added oil to earth image
